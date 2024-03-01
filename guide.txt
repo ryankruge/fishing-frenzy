@@ -1,0 +1,3 @@
+This project was left in a complete state, although as of recently after testing users may find dysfunctional behaviour presented in the form of Windows error notifications, there are no plans to revive this project so unfortunately any issues encountered will not be corrected.
+
+Thank you for taking the time to take a look at my software.
